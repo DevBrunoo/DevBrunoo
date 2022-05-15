@@ -1,7 +1,14 @@
+
+
 <div align="center">
+  
     <a href="https://github.com/DevBrunoo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbrunoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunooliveira&layout=compact&langs_count=7&theme=dark"/>
+  
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+    <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="devbrunoo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/devbrunoo?trk=profile-badge"></a></div>
+                
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
