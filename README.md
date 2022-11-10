@@ -34,6 +34,7 @@
     <a href = "mailto:contactbruno5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/devbrunoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://devbrunoo.com/"><img src="https://i.ibb.co/NSW7xcw/Logosi.jpg" alt="Logosi" border="0"></a>
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC0hxx7u1vJVMWrXenvOEONg?style=social">
     
   </div>
 
