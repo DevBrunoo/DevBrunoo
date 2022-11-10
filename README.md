@@ -19,7 +19,7 @@
     <img align="center" alt="Bruno-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     <img align="center" alt="Bruno-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
     <img align="center" alt="Bruno-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
+     
 
 
   </div>
@@ -33,8 +33,7 @@
     <a href="https://www.quora.com/profile/Bruno-Costa-65-1" target="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target="_blank"></a>
     <a href = "mailto:contactbruno5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/devbrunoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-   
+<a href="https://devbrunoo.com/"><img src="https://i.ibb.co/NSW7xcw/Logosi.jpg" alt="Logosi" border="0"></a>
+    
   </div>
 
-   <a href="https://codepen.io/brunobyhow15" target="_blank"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC0hxx7u1vJVMWrXenvOEONg?style=social"></a> 
