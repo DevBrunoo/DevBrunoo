@@ -36,7 +36,8 @@
     <a href="https://www.linkedin.com/in/devbrunoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC0hxx7u1vJVMWrXenvOEONg"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC0hxx7u1vJVMWrXenvOEONg?style=social"></a>
     
-<a href="https://www.instagram.com/devbrunoo/" target="_blank">
+
+<a href="https://codepen.io/Devbrunoo" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
 </a>
     
