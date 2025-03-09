@@ -40,6 +40,7 @@
 <a href="https://codepen.io/Devbrunoo" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
 </a>
+
+<a href="https://medium.com/@devbrunoo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
     
   </div>
-
